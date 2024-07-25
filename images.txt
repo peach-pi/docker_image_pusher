@@ -9,4 +9,4 @@ prom/prometheus:v2.37.6
 google/cadvisor:v0.26.1
 prom/node-exporter:v1.5.0
 grafana/grafana:9.4.3
-apache/airflow:2.0.0
+apache/airflow:latest
