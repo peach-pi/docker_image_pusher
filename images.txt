@@ -10,3 +10,4 @@ google/cadvisor:v0.26.1
 prom/node-exporter:v1.5.0
 grafana/grafana:9.4.3
 apache/airflow:latest
+apache/superset:latest
