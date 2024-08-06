@@ -13,3 +13,4 @@ apache/airflow:latest
 apache/superset:latest
 prom/alertmanager:v0.21.0
 prom/node-exporter:v1.8.2
+grafana/grafana:latest
