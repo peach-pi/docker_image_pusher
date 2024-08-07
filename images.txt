@@ -14,3 +14,4 @@ apache/superset:latest
 prom/alertmanager:v0.21.0
 prom/node-exporter:v1.8.2
 grafana/grafana:latest
+python:3.8.3-alpine
