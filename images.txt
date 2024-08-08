@@ -18,3 +18,7 @@ python:3.8.3-alpine
 eclipse-mosquitto:latest
 bitnami/rabbitmq:3.10.6
 postgres:alpine
+eclipse-mosquitto
+rabbitmq:management
+apache/superset
+postgres:13
