@@ -16,3 +16,4 @@ prom/node-exporter:v1.8.2
 grafana/grafana:latest
 python:3.8.3-alpine
 eclipse-mosquitto:latest
+rabbitmq:management
