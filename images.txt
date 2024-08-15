@@ -22,3 +22,4 @@ eclipse-mosquitto
 rabbitmq:management
 apache/superset
 postgres:13
+python:3.9-buster
