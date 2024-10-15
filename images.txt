@@ -26,3 +26,4 @@ python:3.9-buster
 rabbitmq:3-management
 python:3.9-slim
 ubuntu:18.04
+ubuntu:20.04
