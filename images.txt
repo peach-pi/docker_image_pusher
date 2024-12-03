@@ -28,3 +28,4 @@ python:3.9-slim
 ubuntu:18.04
 ubuntu:20.04
 oxynozeta/s3-proxy:latest
+minio/minio:latest
