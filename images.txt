@@ -31,3 +31,4 @@ oxynozeta/s3-proxy:latest
 minio/minio:latest
 alpine:3.20
 oxynozeta/s3-proxy:latest
+prometheuscommunity/smartctl-exporter:latest
