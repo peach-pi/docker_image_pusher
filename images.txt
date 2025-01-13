@@ -32,3 +32,4 @@ minio/minio:latest
 alpine:3.20
 oxynozeta/s3-proxy:latest
 prometheuscommunity/smartctl-exporter:latest
+ubuntu:20.04
