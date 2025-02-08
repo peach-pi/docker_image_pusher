@@ -34,3 +34,5 @@ oxynozeta/s3-proxy:latest
 prometheuscommunity/smartctl-exporter:latest
 ubuntu:20.04
 prom/statsd-exporter:latest
+telegraf:latest
+influxdb:2.7
