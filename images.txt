@@ -1,1 +1,1 @@
-miniconda3:latest
+continuumio/miniconda3:latest
