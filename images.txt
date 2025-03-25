@@ -36,3 +36,4 @@ ubuntu:20.04
 prom/statsd-exporter:latest
 telegraf:latest
 influxdb:2.7
+miniconda3:latest
