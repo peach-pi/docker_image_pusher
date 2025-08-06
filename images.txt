@@ -1,2 +1,3 @@
 continuumio/miniconda3:latest
 ros:noetic-ros-base
+kicbase:v0.0.47
