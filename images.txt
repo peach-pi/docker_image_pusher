@@ -1,3 +1,2 @@
 continuumio/miniconda3:latest
-ros:noetic-ros-base
-kicbase:v0.0.47
+gcr.io/k8s-minikube/kicbase:v0.0.47
