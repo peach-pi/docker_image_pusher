@@ -1,5 +1,5 @@
 continuumio/miniconda3:latest
 kubernetesui/dashboard:v2.7.0
 kubernetesui/metrics-scraper:v1.0.8
-openexplorer/ai_toolchain_ubuntu_22_j6_cpu:3.7.0
-openexplorer/ai_toolchain_ubuntu_22_j6_gpu:3.7.0
+openexplorer/ai_toolchain_ubuntu_22_j6_cpu:v3.7.0
+openexplorer/ai_toolchain_ubuntu_22_j6_gpu:v3.7.0
